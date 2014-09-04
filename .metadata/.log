@@ -1,0 +1,1026 @@
+!SESSION 2014-04-05 17:05:38.031 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\Crysytal\Documents\GitHub\descgen2000 -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 17:06:10.638
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 17:06:10.639
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Crysytal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2014-04-05 18:06:31.786 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\Crysytal\Documents\GitHub\descgen2000 -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 18:07:07.836
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 18:07:07.850
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Crysytal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2014-04-05 18:09:35.526 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 18:10:03.933
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 18:10:03.934
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Crysytal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2014-04-05 18:13:20.789 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.691
+!MESSAGE The plugin "org.epic.regexp" with the version "0.1.4" and location "reference:file:plugins/org.epic.regexp_0.1.4/" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.701
+!MESSAGE The plugin "org.kxml2" with the version "2.1.4" and location "reference:file:plugins/org.kxml2_2.1.4/" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.708
+!MESSAGE The plugin "org.rubypeople.rdt" with the version "0.8.0.604272100PRD" and location "reference:file:plugins/org.rubypeople.rdt_0.8.0.604272100PRD.jar" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.723
+!MESSAGE The plugin "org.rubypeople.rdt.debug.core" with the version "0.8.0.604272100PRD" and location "reference:file:plugins/org.rubypeople.rdt.debug.core_0.8.0.604272100PRD/" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.734
+!MESSAGE The plugin "org.rubypeople.rdt.debug.ui" with the version "0.8.0.604272100PRD" and location "reference:file:plugins/org.rubypeople.rdt.debug.ui_0.8.0.604272100PRD/" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.741
+!MESSAGE The plugin "org.rubypeople.rdt.doc.user" with the version "0.8.0.604272100PRD" and location "reference:file:plugins/org.rubypeople.rdt.doc.user_0.8.0.604272100PRD.jar" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.751
+!MESSAGE The plugin "org.rubypeople.rdt.launching" with the version "0.8.0.604272100PRD" and location "reference:file:plugins/org.rubypeople.rdt.launching_0.8.0.604272100PRD/" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.osgi 2 0 2014-04-05 18:13:40.760
+!MESSAGE The plugin "org.rubypeople.rdt.testunit" with the version "0.8.0.604272100PRD" and location "reference:file:plugins/org.rubypeople.rdt.testunit_0.8.0.604272100PRD/" is an old style Eclipse 2.0 plugin with no OSGi bundle manifest.  Support for Eclipse 2.0 style plugins will be removed in a future release. Refer to the migration guide for details.
+
+!ENTRY org.eclipse.ui 2 0 2014-04-05 18:14:54.442
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-04-05 18:14:54.442
+!MESSAGE Commands should really have a category: plug-in='org.rubypeople.rdt.ui', id='org.rubypeople.rdt.ui.edit.text.ruby.toggle.comment', categoryId='org.eubypeople.rdt.ui.category.source'
+
+!ENTRY org.eclipse.ui 2 0 2014-04-05 18:14:55.353
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-04-05 18:14:55.353
+!MESSAGE Commands should really have a category: plug-in='org.rubypeople.rdt.ui', id='org.rubypeople.rdt.ui.edit.text.ruby.toggle.comment', categoryId='org.eubypeople.rdt.ui.category.source'
+
+!ENTRY org.eclipse.jface 2 0 2014-04-05 18:14:57.147
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-04-05 18:14:57.147
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3e486f78,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.rubypeople.rdt.debug.ui.RubyShortcut.debug,Debug Ruby Application,
+		Debug Ruby Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@58e4f3a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-04-05 18:14:57.147
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@41f36baf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.rubypeople.rdt.debug.ui.RubyShortcut.run,Run Ruby Application,
+		Run Ruby Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5422cffc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 18:15:05.969
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-04-05 18:15:05.970
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Crysytal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.249
+!MESSAGE NLS unused message: RubyScriptEditorActionContributor.ToggleInsertMode.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.250
+!MESSAGE NLS unused message: RubyScriptEditorActionContributor.ToggleInsertMode.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.250
+!MESSAGE NLS unused message: RubyScriptEditorActionContributor.ToggleInsertMode.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.251
+!MESSAGE NLS unused message: RubyScriptEditorActionContributor.ToggleInsertMode.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.251
+!MESSAGE NLS unused message: RubyScriptEditor.error.saving.message1 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.251
+!MESSAGE NLS unused message: RubyScriptEditor.error.saving.message2 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.252
+!MESSAGE NLS unused message: RubyScriptEditor.error.saving.message3 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.252
+!MESSAGE NLS unused message: RubyScriptEditor.error.saving.title1 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.252
+!MESSAGE NLS unused message: RubyScriptEditor.error.saving.title2 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.253
+!MESSAGE NLS unused message: RubyScriptEditor.error.saving.title3 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.253
+!MESSAGE NLS unused message: RubyScriptEditor.warning.save.delete in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.254
+!MESSAGE NLS unused message: DeleteISourceManipulations.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.254
+!MESSAGE NLS unused message: DeleteISourceManipulations.error.deleting.message1 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.254
+!MESSAGE NLS unused message: DeleteISourceManipulations.error.deleting.title1 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.255
+!MESSAGE NLS unused message: DeleteISourceManipulations.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.255
+!MESSAGE NLS unused message: DeleteISourceManipulations.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.256
+!MESSAGE NLS unused message: RubyOutlinePage.ContextMenu.refactoring.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.256
+!MESSAGE NLS unused message: RubyOutlinePage.HideFields.description.checked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.256
+!MESSAGE NLS unused message: RubyOutlinePage.HideFields.description.unchecked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.257
+!MESSAGE NLS unused message: RubyOutlinePage.HideFields.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.257
+!MESSAGE NLS unused message: RubyOutlinePage.HideFields.tooltip.checked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.258
+!MESSAGE NLS unused message: RubyOutlinePage.HideFields.tooltip.unchecked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.258
+!MESSAGE NLS unused message: RubyOutlinePage.HideNonePublicMembers.description.checked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.258
+!MESSAGE NLS unused message: RubyOutlinePage.HideNonePublicMembers.description.unchecked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.259
+!MESSAGE NLS unused message: RubyOutlinePage.HideNonePublicMembers.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.259
+!MESSAGE NLS unused message: RubyOutlinePage.HideNonePublicMembers.tooltip.checked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.259
+!MESSAGE NLS unused message: RubyOutlinePage.HideNonePublicMembers.tooltip.unchecked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.260
+!MESSAGE NLS unused message: RubyOutlinePage.HideStaticMembers.description.checked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.260
+!MESSAGE NLS unused message: RubyOutlinePage.HideStaticMembers.description.unchecked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.261
+!MESSAGE NLS unused message: RubyOutlinePage.HideStaticMembers.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.261
+!MESSAGE NLS unused message: RubyOutlinePage.HideStaticMembers.tooltip.checked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.262
+!MESSAGE NLS unused message: RubyOutlinePage.HideStaticMembers.tooltip.unchecked in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.262
+!MESSAGE NLS unused message: RubyOutlinePage.error.ChildrenProvider.getChildren.message1 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.262
+!MESSAGE NLS unused message: RubyOutlinePage.error.ChildrenProvider.hasChildren.message1 in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.263
+!MESSAGE NLS unused message: OpenOnSelection.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.263
+!MESSAGE NLS unused message: OpenOnSelection.dialog.message in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.264
+!MESSAGE NLS unused message: OpenOnSelection.dialog.title in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.264
+!MESSAGE NLS unused message: OpenOnSelection.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.264
+!MESSAGE NLS unused message: OpenOnSelection.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.265
+!MESSAGE NLS unused message: TogglePresentation.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.265
+!MESSAGE NLS unused message: TogglePresentation.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.266
+!MESSAGE NLS unused message: ToggleMarkOccurrencesAction.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.266
+!MESSAGE NLS unused message: ToggleMarkOccurrencesAction.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.266
+!MESSAGE NLS unused message: ToggleTextHover.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.267
+!MESSAGE NLS unused message: ToggleTextHover.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.267
+!MESSAGE NLS unused message: NextAnnotation.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.267
+!MESSAGE NLS unused message: NextAnnotation.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.268
+!MESSAGE NLS unused message: NextAnnotation.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.268
+!MESSAGE NLS unused message: PreviousAnnotation.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.268
+!MESSAGE NLS unused message: PreviousAnnotation.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.269
+!MESSAGE NLS unused message: PreviousAnnotation.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.269
+!MESSAGE NLS unused message: ContentAssistProposal.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.270
+!MESSAGE NLS unused message: ContentAssistProposal.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.270
+!MESSAGE NLS unused message: ContentAssistProposal.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.270
+!MESSAGE NLS unused message: ContentAssistContextInformation.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.273
+!MESSAGE NLS unused message: ContentAssistContextInformation.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.274
+!MESSAGE NLS unused message: ContentAssistContextInformation.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.274
+!MESSAGE NLS unused message: CorrectionAssistProposal.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.275
+!MESSAGE NLS unused message: CorrectionAssistProposal.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.275
+!MESSAGE NLS unused message: CorrectionAssistProposal.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.276
+!MESSAGE NLS unused message: ShowRubyDoc.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.276
+!MESSAGE NLS unused message: ShowRubyDoc.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.276
+!MESSAGE NLS unused message: ShowRubyDoc.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.286
+!MESSAGE NLS unused message: ShowOutline.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.287
+!MESSAGE NLS unused message: ShowOutline.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.287
+!MESSAGE NLS unused message: ShowOutline.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.287
+!MESSAGE NLS unused message: OpenStructure.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.288
+!MESSAGE NLS unused message: OpenStructure.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.288
+!MESSAGE NLS unused message: OpenStructure.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.289
+!MESSAGE NLS unused message: OpenExternalRubydoc.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.289
+!MESSAGE NLS unused message: OpenExternalRubydoc.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.289
+!MESSAGE NLS unused message: OpenExternalRubydoc.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.290
+!MESSAGE NLS unused message: Comment.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.290
+!MESSAGE NLS unused message: Comment.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.291
+!MESSAGE NLS unused message: Comment.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.291
+!MESSAGE NLS unused message: Uncomment.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.291
+!MESSAGE NLS unused message: Uncomment.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.292
+!MESSAGE NLS unused message: Uncomment.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.292
+!MESSAGE NLS unused message: AddBlockComment.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.293
+!MESSAGE NLS unused message: AddBlockComment.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.293
+!MESSAGE NLS unused message: AddBlockComment.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.293
+!MESSAGE NLS unused message: RemoveBlockComment.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.294
+!MESSAGE NLS unused message: RemoveBlockComment.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.295
+!MESSAGE NLS unused message: RemoveBlockComment.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.295
+!MESSAGE NLS unused message: Format.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.296
+!MESSAGE NLS unused message: Format.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.296
+!MESSAGE NLS unused message: Format.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.297
+!MESSAGE NLS unused message: ShiftRight.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.297
+!MESSAGE NLS unused message: ShiftRight.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.297
+!MESSAGE NLS unused message: ShiftRight.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.298
+!MESSAGE NLS unused message: ShiftLeft.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.298
+!MESSAGE NLS unused message: ShiftLeft.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.299
+!MESSAGE NLS unused message: ShiftLeft.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.299
+!MESSAGE NLS unused message: AddTask.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.299
+!MESSAGE NLS unused message: AddTask.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.300
+!MESSAGE NLS unused message: AddTask.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.300
+!MESSAGE NLS unused message: AddTask.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.300
+!MESSAGE NLS unused message: AddTask.dialog.title in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.301
+!MESSAGE NLS unused message: AddTask.dialog.message in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.301
+!MESSAGE NLS unused message: AddTask.error.dialog.title in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.302
+!MESSAGE NLS unused message: AddTask.error.dialog.message in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.302
+!MESSAGE NLS unused message: Editor.Cut.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.302
+!MESSAGE NLS unused message: Editor.Cut.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.303
+!MESSAGE NLS unused message: Editor.Cut.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.303
+!MESSAGE NLS unused message: Editor.Cut.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.303
+!MESSAGE NLS unused message: Editor.Copy.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.304
+!MESSAGE NLS unused message: Editor.Copy.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.304
+!MESSAGE NLS unused message: Editor.Copy.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.305
+!MESSAGE NLS unused message: Editor.Copy.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.305
+!MESSAGE NLS unused message: Editor.FoldingMenu.name in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.305
+!MESSAGE NLS unused message: Editor.Paste.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.306
+!MESSAGE NLS unused message: Editor.Paste.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.306
+!MESSAGE NLS unused message: Editor.Paste.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.306
+!MESSAGE NLS unused message: Editor.Paste.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.307
+!MESSAGE NLS unused message: RubyScriptDocumentProvider.error.createElementInfo in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.307
+!MESSAGE NLS unused message: RubyScriptDocumentProvider.error.resetDocument in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.307
+!MESSAGE NLS unused message: RubyScriptDocumentProvider.out_of_sync.message in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.308
+!MESSAGE NLS unused message: StructureSelect.error.title in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.308
+!MESSAGE NLS unused message: StructureSelect.error.message in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.308
+!MESSAGE NLS unused message: StructureSelectNext.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.309
+!MESSAGE NLS unused message: StructureSelectNext.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.309
+!MESSAGE NLS unused message: StructureSelectNext.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.309
+!MESSAGE NLS unused message: StructureSelectPrevious.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.310
+!MESSAGE NLS unused message: StructureSelectPrevious.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.310
+!MESSAGE NLS unused message: StructureSelectPrevious.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.310
+!MESSAGE NLS unused message: StructureSelectEnclosing.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.311
+!MESSAGE NLS unused message: StructureSelectEnclosing.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.311
+!MESSAGE NLS unused message: StructureSelectEnclosing.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.311
+!MESSAGE NLS unused message: StructureSelectHistory.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.312
+!MESSAGE NLS unused message: StructureSelectHistory.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.312
+!MESSAGE NLS unused message: StructureSelectHistory.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.312
+!MESSAGE NLS unused message: ExpandSelectionMenu.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.313
+!MESSAGE NLS unused message: GotoMatchingBracket_tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.313
+!MESSAGE NLS unused message: GotoMatchingBracket_description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.313
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickFix.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.314
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickFix.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.314
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickFix.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.314
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickFix.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.315
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickAssist.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.315
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickAssist.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.315
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickAssist.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.316
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.QuickAssist.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.316
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.GotoAnnotation.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.316
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.GotoAnnotation.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.317
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.GotoAnnotation.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.317
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.GotoAnnotation.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.317
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.OpenSuperImplementation.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.318
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.OpenSuperImplementation.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.318
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.OpenSuperImplementation.description in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.318
+!MESSAGE NLS unused message: RubySelectAnnotationRulerAction.OpenSuperImplementation.image in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.319
+!MESSAGE NLS unused message: EditorUtility.concatModifierStrings in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.319
+!MESSAGE NLS unused message: Indent.label in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.319
+!MESSAGE NLS unused message: Indent.tooltip in: org.rubypeople.rdt.internal.ui.rubyeditor.RubyEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.321
+!MESSAGE NLS unused message: RdtUiPlugin.internalErrorOccurred in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.322
+!MESSAGE NLS unused message: RubyProjectLibraryPage.elementNotIProject in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.322
+!MESSAGE NLS unused message: RubyProjectLibraryPage.project in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.323
+!MESSAGE NLS unused message: RubyProjectLibraryPage.tabName in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.323
+!MESSAGE NLS unused message: RubyBasePreferencePage.label in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.323
+!MESSAGE NLS unused message: RubyProjectPropertyPage.rubyProjectClosed in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.324
+!MESSAGE NLS unused message: RubyProjectPropertyPage.performOkExceptionDialogTitle in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.324
+!MESSAGE NLS unused message: RubyProjectPropertyPage.performOkExceptionDialogMessage in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.324
+!MESSAGE NLS unused message: TextEditorPreferencePage.general in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.324
+!MESSAGE NLS unused message: TextEditorPreferencePage.printMarginColor in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.325
+!MESSAGE NLS unused message: TextEditorPreferencePage.currentLineHighlighColor in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.325
+!MESSAGE NLS unused message: TextEditorPreferencePage.lineNumberForegroundColor in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.325
+!MESSAGE NLS unused message: TextEditorPreferencePage.displayedTabWidth in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.326
+!MESSAGE NLS unused message: TextEditorPreferencePage.printMarginColumn in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.326
+!MESSAGE NLS unused message: TextEditorPreferencePage.showOverviewRuler in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.327
+!MESSAGE NLS unused message: TextEditorPreferencePage.showLineNumbers in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.327
+!MESSAGE NLS unused message: TextEditorPreferencePage.highlightCurrentLine in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.327
+!MESSAGE NLS unused message: TextEditorPreferencePage.showPrintMargin in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.328
+!MESSAGE NLS unused message: TextEditorPreferencePage.appearanceOptions in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.328
+!MESSAGE NLS unused message: TextEditorPreferencePage.color in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.328
+!MESSAGE NLS unused message: TextEditorPreferencePage.empty_input in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.329
+!MESSAGE NLS unused message: TextEditorPreferencePage.invalid_input in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.329
+!MESSAGE NLS unused message: TextEditorPreferencePage.invalid_range in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.329
+!MESSAGE NLS unused message: RubyEditorPropertyPage.highlighting.group in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.330
+!MESSAGE NLS unused message: RubyEditorPropertyPage.property in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.330
+!MESSAGE NLS unused message: RubyEditorPropertyPage.indentation in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.330
+!MESSAGE NLS unused message: RubyEditorPropertyPage.useTab in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.331
+!MESSAGE NLS unused message: RubyEditorPropertyPage.tabSpaceExplanation in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.331
+!MESSAGE NLS unused message: RubyEditorPropertyPage.codeFormatterTabTitle in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.331
+!MESSAGE NLS unused message: RubyEditorPreferencePage.description in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.332
+!MESSAGE NLS unused message: RubyEditorPreferencePage.folding.title in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.332
+!MESSAGE NLS unused message: FoldingConfigurationBlock.enable in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.332
+!MESSAGE NLS unused message: FoldingConfigurationBlock.combo_caption in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.332
+!MESSAGE NLS unused message: FoldingConfigurationBlock.info.no_preferences in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.333
+!MESSAGE NLS unused message: FoldingConfigurationBlock.error.not_exist in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.333
+!MESSAGE NLS unused message: ExceptionDialog.seeErrorLogMessage in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.333
+!MESSAGE NLS unused message: ContentAssistProposal.label in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.334
+!MESSAGE NLS unused message: ContentAssistProposal.tooltip in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.334
+!MESSAGE NLS unused message: ContentAssistProposal.description in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.334
+!MESSAGE NLS unused message: Comment.label in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.335
+!MESSAGE NLS unused message: Comment.tooltip in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.335
+!MESSAGE NLS unused message: Uncomment.label in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.335
+!MESSAGE NLS unused message: Uncomment.tooltip in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.336
+!MESSAGE NLS unused message: Format.label in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.336
+!MESSAGE NLS unused message: RubySearch.SearchForClassSymbol in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.336
+!MESSAGE NLS unused message: RubySearch.SearchForMethodSymbol in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.337
+!MESSAGE NLS unused message: RubySearchPage.SearchForGroupLabel in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.337
+!MESSAGE NLS unused message: RubySearch.ResultLabel in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.337
+!MESSAGE NLS unused message: NewProjectCreationWizard.windowTitle in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.338
+!MESSAGE NLS unused message: NewProjectCreationWizard.projectCreationMessage in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.338
+!MESSAGE NLS unused message: WizardNewProjectCreationPage.pageName in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.338
+!MESSAGE NLS unused message: WizardNewProjectCreationPage.pageTitle in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.339
+!MESSAGE NLS unused message: WizardNewProjectCreationPage.pageDescription in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.339
+!MESSAGE NLS unused message: ToggleMenuRubyFilesOnly in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.339
+!MESSAGE NLS unused message: ToggleMenuRubyFilesOnly.Tooltip in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.340
+!MESSAGE NLS unused message: RubyAnnotationHover.multipleMarkersAtThisLine in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.340
+!MESSAGE NLS unused message: HTMLTextPresenter.ellipsis in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.340
+!MESSAGE NLS unused message: HTML2TextReader.listItemPrefix in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.341
+!MESSAGE NLS unused message: RDocPathErrorTitle in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.341
+!MESSAGE NLS unused message: RDocPathError in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.341
+!MESSAGE NLS unused message: RDocExecutionErrorTitle in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.342
+!MESSAGE NLS unused message: RDocExecutionError in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.342
+!MESSAGE NLS unused message: RDocExecutionErrorAdditionalMessageWithStderr in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.342
+!MESSAGE NLS unused message: RDocExecutionErrorAdditionalMessage in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.342
+!MESSAGE NLS unused message: ErrorRunningRdocTitle in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.343
+!MESSAGE NLS unused message: ToggleComment.label in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.344
+!MESSAGE NLS unused message: ToggleComment.tooltip in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.344
+!MESSAGE NLS unused message: ToggleComment.description in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.344
+!MESSAGE NLS unused message: ToggleComment.error.title in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.345
+!MESSAGE NLS unused message: ToggleComment.error.message in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.345
+!MESSAGE NLS missing message: StatusBarUpdater_num_elements_selected in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:16:59.346
+!MESSAGE NLS missing message: RubyElementLabels_import_container in: org.rubypeople.rdt.internal.ui.RubyUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:17:00.356
+!MESSAGE NLS missing message: OpenAction_error_messageBadSelection in: org.rubypeople.rdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:17:00.357
+!MESSAGE NLS missing message: OpenAction_error_title in: org.rubypeople.rdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2014-04-05 18:18:26.854
+!MESSAGE NLS unused message: AppearancePreferencePage_showMembersInPackagesView in: org.rubypeople.rdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.jface 2 0 2014-04-05 18:21:10.478
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-04-05 18:21:10.478
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47573c5b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@303b9ef4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@303b9ef4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-04-05 18:21:10.478
+!MESSAGE A conflict occurred for ALT+SHIFT+T:
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a40bde9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10741976,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10741976,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+!SESSION 2014-07-10 18:53:48.112 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2014-07-10 18:54:43.815
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-07-10 18:54:43.816
+!MESSAGE Commands should really have a category: plug-in='org.rubypeople.rdt.ui', id='org.rubypeople.rdt.ui.edit.text.ruby.toggle.comment', categoryId='org.eubypeople.rdt.ui.category.source'
+
+!ENTRY org.eclipse.ui 2 0 2014-07-10 18:54:46.425
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-07-10 18:54:46.425
+!MESSAGE Commands should really have a category: plug-in='org.rubypeople.rdt.ui', id='org.rubypeople.rdt.ui.edit.text.ruby.toggle.comment', categoryId='org.eubypeople.rdt.ui.category.source'
+
+!ENTRY org.eclipse.jface 2 0 2014-07-10 18:54:49.659
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-10 18:54:49.659
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cdd03e5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.rubypeople.rdt.debug.ui.RubyShortcut.debug,Debug Ruby Application,
+		Debug Ruby Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@622ac665,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-10 18:54:49.659
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6647433c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.rubypeople.rdt.debug.ui.RubyShortcut.run,Run Ruby Application,
+		Run Ruby Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@508f4c99,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-07-10 18:55:14.331
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-07-10 18:55:14.343
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Crysytal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface 2 0 2014-07-10 18:56:09.528
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-10 18:56:09.528
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@104d7ae3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ebed571,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ebed571,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-10 18:56:09.528
+!MESSAGE A conflict occurred for ALT+SHIFT+T:
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52af161a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@64d42f5e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@64d42f5e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
